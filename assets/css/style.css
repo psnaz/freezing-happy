@@ -54,6 +54,15 @@ h1, h3 {
     color: red;
 }
 
+/* hero image */
+
+#hero-image {
+    height: 600px;
+    width: 120%;
+    background: url('../images/hero-image.jpg') no-repeat center center;
+    overflow: hidden;
+}
+
 #menu a {
     text-decoration: none;
     color: inherit;
