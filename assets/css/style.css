@@ -98,6 +98,23 @@ h2 {
     height: 150px;
 }
 
+/* our story */
+
+#our-story {
+    height: fit-content;
+}
+
+#left-story {
+    padding-top: 30 pixels;
+    padding-bottom: 30pixels;
+    width: 100%;
+    float: left;
+}
+
+.book {
+    width: 100%;
+}
+
 /* gallery */
 
 .flex-container {
