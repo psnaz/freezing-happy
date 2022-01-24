@@ -97,3 +97,18 @@ h2 {
     width: 100%;
     height: 150px;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: red;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links > li {
+    text-align: center;
+}
