@@ -119,7 +119,8 @@ h2 {
 
 .flex-container {
     display: flex;
-    background-color: DodgerBlue;
+    background-color: #ffffff;
+    display: flex;
 }
   
 .flex-container > div {
