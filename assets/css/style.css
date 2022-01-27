@@ -90,13 +90,14 @@ h2 {
     padding-bottom: 2.5%;
 }
 
-/* red banners */
+/* red banners 
 
 #red-banner {
     background-color: #ad1212;
     width: 100%;
     height: 150px;
 }
+*/
 
 /* our story */
 
@@ -133,14 +134,33 @@ h2 {
 /* footer */
 
 footer {
-    height: 150px;
     background-color: #ad1212;
-}
-
-.social-links {
+    padding: 1em;
     text-align: center;
 }
 
-.social-links > li {
+.social-media {
+    text-align: center;
+    list-style-type: none;
+}
+
+.social-media > li {
     display: inline;
+
+}
+
+.social-media i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #E5E7EA;
+}
+
+footer > p {
+    color: #E5E7EA;
+    text-align: center;
+}
+
+footer > h2 {
+    padding: none;
 }
