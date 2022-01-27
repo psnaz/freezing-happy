@@ -17,13 +17,14 @@ body {
 
 h1, h3 {
     font-family: Lato, sans-serif;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     text-transform: uppercase;
     color: #8b0f18;
 }
 
 #logo {
     float: left;
+    margin-left: 40px;
     font-weight: bold;
     font-size: 280%;
 }
@@ -58,10 +59,10 @@ h1, h3 {
 /* hero image */
 
 #hero-image {
-    height: 835px;
+    height: auto;
     width: 100%;
-    background: url('../images/hero-image.jpg') no-repeat center center;
-    overflow: hidden;
+    /*background: url('../images/hero-image.jpg') no-repeat center center;
+    overflow: hidden;*/
 }
 
 /* headline banner */
@@ -102,24 +103,26 @@ h2 {
 
 /* our story */
 
-#our-story {
-    height: fit-content;
+.left-story {
+    text-align: left;
+    padding: 30px;
+    margin: 5%; 
 }
 
-#left-story {
-    padding-top: 30 pixels;
-    padding-bottom: 30pixels;
-    width: 100%;
-    float: left;
+.left-story > p{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-#video {
+.video {
     text-align: center;
-    padding: 2px;
+    padding: 20px;
+    margin: 2.5%;
 }
 
 .book {
     width: 100%;
+    height: auto;
 }
 
 span {
