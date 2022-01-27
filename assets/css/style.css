@@ -152,7 +152,7 @@ footer {
 .social-media i {
     font-size: 150%;
     margin: 1%;
-    padding: 5%;
+    padding: 1%;
     color: #E5E7EA;
 }
 
@@ -161,6 +161,6 @@ footer > p {
     text-align: center;
 }
 
-footer > h2 {
-    padding: none;
+footer h2 {
+    padding: 0;
 }
