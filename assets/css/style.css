@@ -194,6 +194,13 @@ input[type=submit] {
     padding: 2%;
 }
 
+.center {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right:2%;
+}
 
 /* footer */
 
