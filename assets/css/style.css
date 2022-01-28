@@ -202,6 +202,16 @@ input[type=submit] {
     padding-right:2%;
 }
 
+/* contact */
+
+#contact p {
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    padding-left: 2%;
+    padding-right:2%;
+}
+
 /* footer */
 
 footer {
