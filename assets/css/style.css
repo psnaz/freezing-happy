@@ -120,18 +120,17 @@ h2 {
     margin: 2.5%;
 }
 
-/* #book {
-    width: 100%;
-    height: auto;
-} */
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 560px;
+}
 
-/* book image */
-
-#book-image {
-    height: 100vh;
-    background-image: url('../images/book-image.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+#book {
+    text-align: center;
+    padding: 20px;
+    margin: 2.5%;
 }
 
 span {
