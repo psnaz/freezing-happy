@@ -161,10 +161,19 @@ span {
 
 /* form TO BE AMENDED AS NOT WORKING AS EXPECTED*/
 
-.signup {
-    text-align: left;
-    padding: 30px;
-    margin: 5%; 
+form {
+    color:#ffffff;
+    width: 560px;
+    padding: 25px;
+    margin: 25px auto;
+    background-color: #8b0f18;
+}
+
+legend {
+    text-align: center;
+    padding: 5%;
+    font-size: larger;
+    font-weight: bold;
 }
 
 
