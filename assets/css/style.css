@@ -216,8 +216,12 @@ input[type=submit] {
 
 footer {
     background-color: #8b0f18;
+    width: 100%;
     padding: 1em;
     text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
 }
 
 .social-media {
