@@ -13,6 +13,14 @@ body {
     color:black;
 }
 
+/* header 
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+} */
+
 /* headings and logo */
 
 h1, h3 {
@@ -55,6 +63,7 @@ h1, h3 {
     border-bottom: 1px solid #8b0f18;
     color: #8b0f18;
 }
+
 
 /* hero image */
 
