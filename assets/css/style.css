@@ -13,13 +13,14 @@ body {
     color:black;
 }
 
-/* header 
+/* header */
 
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-} */
+nav {
+    width: 1253px;
+    height: 75px;
+    padding: 10px;
+    background-color: #ffffff;
+}
 
 /* headings and logo */
 
@@ -42,6 +43,8 @@ h1, h3 {
 #menu {
     font-size:110%;
     letter-spacing: 2px;
+    float: right;
+    margin-right: 40px;
 }
 
 #menu, #logo {
@@ -51,7 +54,7 @@ h1, h3 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 75px;
+    margin-right: 40px;
 }
 
 #menu a:hover {
