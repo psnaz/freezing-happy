@@ -162,8 +162,11 @@ img {
 
 .flex-container {
     display: flex;
+    flex-direction: row;
     background-color: #ffffff;
-    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
   
 .flex-container > div {
@@ -175,7 +178,8 @@ img {
 }
 
 .square-pic {
-    width: 50%;
+    width: 75%;
+    height: auto;
 }
 
 /* form */
