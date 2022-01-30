@@ -1,8 +1,6 @@
 # Freezing Happy
-
-This is my first project for my Diploma in Software Dev Course and it’s been built for educational purposes only. 
-
-The purpose of the website is to inspire people to invest time in their health and regular self-care, to work on their immunity and potential, and also to spend more time outdoors.
+ 
+The purpose of Freezing Happy is to inspire people to invest time in their health and regular self-care, to work on their immunity and potential, and also to spend more time outdoors by practising so-called Wim Hof Method and open water swimming.
 
 This website is designed to be responsive and accessible on a range of devices, making it easy to navigate for the audience.
 
@@ -24,14 +22,14 @@ The benefit of this project is to highlight that “ordinary people” can push 
 
 Other features that are not to be missed is that the user can, if they wish, get in touch to obtain more information about the regular ice-baths and open water swimming meetups, possibly join the group if they’re local, subscribe to the newsletter and easily navigate to the social links.
 
-*As an end user I want to get inspired to try out the Wim Hof Method to find out more about the ice-baths, cold therapy, open water swimming, and their benefits.
+*As an end user I want to get inspired to try out the Wim Hof Method to find content about the ice-baths, cold therapy, open water swimming, and their benefits.
 *As an end user I want to find all this information easily, without too many clicks.
 *As an end user I want to be able to subscribe to the newsletter so that I can receive more regular updates on the Wim Hof Method in practice and regular meetups of the group. 
-*As an end user I want to be able to find your contact details and social links, so that I could get in touch easily.
+*As an end user I want to be able to find website owner's contact details and social links, so that I could get in touch and follow easily.
 *As an end user I want to be able to view this information on a variety of devices: a desktop, mobile phone and tablet.
 
 
-## Strategy???
+## Strategy
 
 ### Steps Taken
 
