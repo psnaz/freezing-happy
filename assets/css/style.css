@@ -286,3 +286,36 @@ footer > p {
 footer h2 {
     padding: 0;
 }
+
+/* Media queries */
+
+/* For larger to medium screen sizes from 1200px wide and smaller */
+@media screen and (max-width: 1200px) {
+    #our-story {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-story {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #video {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #book {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+
+}
