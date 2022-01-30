@@ -317,6 +317,13 @@ footer h2 {
         padding: 0;
     }
 
+    #come-along {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
 }
 
 /* For medium screen sizes from 950px wide and smaller */
@@ -356,6 +363,18 @@ footer h2 {
     .left-story p {
         text-align: center;
         padding: 0 20px;
+    }
+
+    #come-along {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    .red-banner {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
     }
 
 
