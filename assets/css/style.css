@@ -75,6 +75,7 @@ h1, h3 {
     background-image: url('../images/hero-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 /* headline banner */
@@ -153,6 +154,7 @@ img {
     background-image: url('../images/legs-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 /* gallery */
