@@ -71,9 +71,9 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 ### Code
 
-- The majority of the code came from the Diploma in Software Development study materials and my notes taken during going through the materials.
+- The majority of the code came from the Diploma in Software Development study materials, my notes taken during going through the materials and by working with Google DevTools - trial and error approach.
 
-- MDN Web Docs: Used extensively to deepen my knowledge and understanding of HTML and CSS, and chek for ideas and solutions, specifically:  
+- [MDN Web Docs](https://developer.mozilla.org/en-US/): Used extensively to deepen my knowledge and understanding of HTML and CSS, and chek for ideas and solutions, specifically:  
 
 - Mentor’s advice: As per my mentor's advice I used flexbox as the main element to create the gallery that looks a little bit like Instagram feed. 
 
@@ -85,18 +85,18 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 ### Media
 
-*2 images (hero image “lady in the red hat” and “lady’s legs”) purchased on iStockphotography.com
-*The rest of the images created by the developer
-*Youtube video “HE IS THE ICE MAN (Wim Hof)” created by Drew Binsky.
+- 2 images (hero image “lady in the red hat” and “lady’s legs”) purchased on [iStockphotography.com](https://www.istockphoto.com/)
+- The rest of the images created by the developer
+- Youtube video “HE IS THE ICE MAN (Wim Hof)” created by Drew Binsky.
 
 
 ### Acknowledgements
 
-*My ice-bath-crazy friends for inspiration and getting me hooked on ice baths, cold therapy and open water swimming.
-*My Mentor Celestine Okoro for his helpful feedback.
-*Tutor support at Code Institute for their support.
-*Stephen Seagrave for his most valuable advice recorded as Milestone 1 Planning with Stephen Seagrave.
-*Code Institute Slack Community for all their advice and support.
+- My ice-bath-crazy friends for inspiration and getting me hooked on ice baths, cold therapy and open water swimming.
+- My Mentor Celestine Okoro for his helpful feedback.
+- Tutor support at Code Institute for their support, in particular, I'd like to thank you Ed, Jo and Igor.
+- Stephen Seagrave, CI alumni, for his most valuable advice recorded as Milestone 1 Planning with Stephen Seagrave.
+- Code Institute Slack Community for all their advice and support.
 
 
 ## Testing
