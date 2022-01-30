@@ -199,6 +199,19 @@ legend {
     font-weight: bold;
 }
 
+label {
+    margin: 10px 15px 10px 15px;
+}
+
+input[type=text], 
+input[type=email] {
+    height: 30px;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+	margin: 2px auto;
+}
+
 input[type=submit] {
     background-color: white;
     border: none;
