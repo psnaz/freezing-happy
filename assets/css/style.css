@@ -164,10 +164,15 @@ img {
 }
   
 .flex-container > div {
-    background-color: #f1f1f1;
+    background-color: #ffffff;
     margin: 10px;
     padding: 20px;
     font-size: 30px;
+    text-align: center;
+}
+
+.square-pic {
+    width: 50%;
 }
 
 /* form */
