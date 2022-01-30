@@ -22,66 +22,66 @@ The benefit of this project is to highlight that “ordinary people” can push 
 
 Other features that are not to be missed is that the user can, if they wish, get in touch to obtain more information about the regular ice-baths and open water swimming meetups, possibly join the group if they’re local, subscribe to the newsletter and easily navigate to the social links.
 
-*As an end user I want to get inspired to try out the Wim Hof Method to find content about the ice-baths, cold therapy, open water swimming, and their benefits.
-*As an end user I want to find all this information easily, without too many clicks.
-*As an end user I want to be able to subscribe to the newsletter so that I can receive more regular updates on the Wim Hof Method in practice and regular meetups of the group. 
-*As an end user I want to be able to find website owner's contact details and social links, so that I could get in touch and follow easily.
-*As an end user I want to be able to view this information on a variety of devices: a desktop, mobile phone and tablet.
+- As an end user I want to get inspired to try out the Wim Hof Method to find content about the ice-baths, cold therapy, open water swimming, and their benefits.
+- As an end user I want to find all this information easily, without too many clicks.
+- As an end user I want to be able to subscribe to the newsletter so that I can receive more regular updates on the Wim Hof Method in practice and regular meetups of the group. 
+- As an end user I want to be able to find website owner's contact details and social links, so that I could get in touch and follow easily.
+- As an end user I want to be able to view this information on a variety of devices: a desktop, mobile phone and tablet.
 
 
 ## Strategy
 
 ### Steps Taken
 
-*Project ideas jotted down in a notepad and a mind map created (pen & paper)
-*Hero image searched for on pixabay.com, but found on iStock
-*Content page outlined, researched and written in Google docs
-*Color palette created in canva.com
-*Mockup design created in canva.com
-*Planning Session 1 with my mentor (Call 1)
-*GitHub repository created:
-*Project broke down into smaller tasks and To-Do List created in Google docs
-*README file content outlined and written in Google docs
-*Building work/ Coding started in Gitpod
-*Project Session 2 with my mentor (Call 2)
-*Building work/ Coding continues and amendments carried out
-*Project Session 3 with my mentor (Final Call)
-*Project finalized, tested
-*Project submitted to the Code Institute for marking
+- Project ideas jotted down in a notepad and a mind map created (pen & paper)
+- Hero image searched for on pixabay.com, but found on iStock
+- Content page outlined, researched and written in Google docs
+- Color palette created in canva.com
+- Mockup design created in canva.com
+- Planning Session 1 with my mentor (Call 1)
+- GitHub repository created, link [here](https://github.com/psnaz/freezing-happy).
+- Project broke down into smaller tasks and To-Do List created in Google docs
+- README file content outlined and written in Google docs
+- Building work/ Coding started in Gitpod
+- Project Session 2 with my mentor (Call 2)
+- Building work/ Coding continues and amendments carried out
+- Project Session 3 with my mentor (Final Call)
+- Project finalized, tested, bugs fixed
+- Project submitted to the Code Institute for marking
 
 ## Technologies Used
 
 ### Languages Used
-*HTML5
-*CSS3
+- HTML5
+- CSS3
 
 ### Frameworks, Libraries and Programs Used
 
-*Pixabay.com: Pixabay was used to find images but images found thanks to iStock ad placed on the site
-*Canva.com: Canva Color Palette Generator was used to create a color palette and Canva was used to create a mock-up design, and for resizing and editing images.
-*Google Fonts: Google fonts were used to import the ‘Lato’ and ‘Inspiration’ fonts into the style.css files. Font Lato was used throughout the project, font Inspiration used on banners for aesthetic and UX purposes.
-*Git: Git was used for version control by utilizing the Gitpod terminal - to commit to Git and push to GitHub
-*GitHub: Github is used to store the project's code after being pushed from Git.
-*GoogleDev Tools used to see the element positioning and responsiveness
-*TinyPNG was used to compress the images
-*FontAwesome used for social media icons: FB, IG, YT
+- Pixabay.com: Pixabay was used to find images but images found thanks to iStock ad placed on the site
+- Canva.com: Canva Color Palette Generator was used to create a color palette and Canva was used to create a mock-up design, and for resizing and editing images.
+- Google Fonts: Google fonts were used to import the ‘Lato’ and ‘Inspiration’ fonts into the style.css files. Font Lato was used throughout the project, font Inspiration used on banners for aesthetic and UX purposes.
+- Git: Git was used for version control by utilizing the Gitpod terminal - to commit to Git and push to GitHub
+- GitHub: Github is used to store the project's code after being pushed from Git.
+- GoogleDev Tools used to see the element positioning and responsiveness
+- TinyPNG was used to compress the images
+- FontAwesome used for social media icons: FB, IG, YT
 
 
 ## Credits
 
 ### Code
 
-*The majority of the code came from the Diploma in Software Development study materials and my notes taken during going through the materials.
+- The majority of the code came from the Diploma in Software Development study materials and my notes taken during going through the materials.
 
-*MDN Web Docs: Used to extend my knowledge and deepen understanding of HTML and CSS. 
+- MDN Web Docs: Used extensively to deepen my knowledge and understanding of HTML and CSS, and chek for ideas and solutions, specifically:  
 
-*Mentor’s advice: 
+- Mentor’s advice: As per my mentor's advice I used flexbox as the main element to create the gallery that looks a little bit like Instagram feed. 
 
 
 ### Content
 
-*All content was written by the developer.
-*Wim Hof quotation found on his Twitter here.
+- All content was written by the developer.
+- Wim Hof quotation found on his Twitter [here](https://twitter.com/iceman_hof/status/1163496295723651074?lang=en).
 
 ### Media
 
