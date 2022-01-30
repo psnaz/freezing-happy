@@ -57,6 +57,11 @@ h1, h3 {
     margin-right: 40px;
 }
 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
 #menu a:hover {
     border-bottom: 1px solid #8b0f18;
     color: #8b0f18;
@@ -87,10 +92,6 @@ h1, h3 {
     text-align: center;
 }
 
-#menu a {
-    text-decoration: none;
-    color: inherit;
-}
 
 h2 {
     color: #E5E7EA;
