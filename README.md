@@ -6,11 +6,11 @@ The purpose of the website is to inspire people to invest time in their health a
 
 This website is designed to be responsive and accessible on a range of devices, making it easy to navigate for the audience.
 
+![freezinghappy-mockup.png](./assets/images/freezinghappy-mockup.png)
+
 ## Showcase
 
 A deployed link to the website can be found [here](https://psnaz.github.io/freezing-happy/).
-
-![Preview] (.....)
 
 ## User Experience (UX)
 
