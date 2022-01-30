@@ -329,4 +329,34 @@ footer h2 {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #our-story {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-story {
+        width: inherit;
+    }
+
+    #video {
+        width: inherit;
+    }
+
+    #book {
+        width: inherit;
+    }
+
+    h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-story p {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+
 }
