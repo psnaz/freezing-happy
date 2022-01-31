@@ -213,11 +213,11 @@ If you are interested how to fork this repository or how to make a local clone, 
 ## Notes
 
 I have also taken inspiration from the following sales pages I previously created for my client Healing Spot PT in their Kartra acc. Please note that I have not inspected the below pages with GoogleDev Tools nor tried to find out what the code for these pages is, I simply took inspiration from the graphic design point of view.
- 
+
 - [Clear Your Root Online Program](https://healingspot.kartra.com/page/Clear-Your-Root)
 - [Release Your Root Online Program](https://healingspot.kartra.com/page/Release-Your-Root)
 - [Low Pressure Fitness Online Program](https://healingspot.kartra.com/page/Low-Pressure-Fitness-Level1)
 - [Rise-N-Shine Self-care Program](https://healingspot.kartra.com/page/Rise-n-Shine)
 - [How Smart Moms Return To Exercise Class](https://healingspot.kartra.com/page/how-smart-moms-return-to-exercise)
 
-Unfortunately, due to time restraints and the deadline I was not able to…
+
