@@ -196,14 +196,16 @@ Please see the test reports attached. The mentioned bugs have not been fixed due
 
 ## Deployment
 
-### GitHub Pages
+This site was deployed to GitHub pages by taking the following steps:
 
-The project was deployed to GitHub Pages using the following steps:
-1.
-2.
-….
+1. In the GitHub repository click on the settings tab on the right hand site
+2. Scroll down to the GitHub pages heading that informs you that 'Pages setting now has its own tab' and click on the link next to it.
+3. Select source and select 'main' and save, this will refresh the page.
+4.  Scroll down to the GitHub Pages section again to see the deployed link and click on it.
+5. Please note that it might take a few minutes for Github to build the site.
 
-### Forking the GitHub Repository OR Making a Local Clone
+
+## Forking the GitHub Repository OR Making a Local Clone
 
 If you are interested how to fork this repository or how to make a local clone, this information can be found in Github documentation [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
