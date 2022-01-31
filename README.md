@@ -6,9 +6,11 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ![freezinghappy-mockup.png](./assets/images/freezinghappy-mockup.png)
 
+
 ## Showcase
 
 A deployed link to the website can be found [here](https://psnaz.github.io/freezing-happy/).
+
 
 ## User Experience (UX)
 
@@ -48,6 +50,7 @@ Other features that are not to be missed is that the user can, if they wish, get
 - Project Session 3 with my mentor (Final Call)
 - Project finalized, tested, bugs fixed
 - Project submitted to the Code Institute for marking
+
 
 ## Technologies Used
 
@@ -103,8 +106,17 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the project page to ensure that there were no syntax errors in the project.
 
-W3C Markup Validator - Results
-W3C CSS Validator - Results
+W3C Markup Validator - Results are available here.
+
+
+W3C CSS Validator - Results are available here.
+
+
+![freezinghappy-mockup.png](./assets/images/freezinghappy-mockup.png)
+
+This Website was also tested by Lighthouse Chrome Extension and the full report is available [here](https://docs.google.com/document/d/1D0csh9chky472govAPuKJa73MZPxRlj16xuiBu79ltk/edit?usp=sharing).
+
+
 
 
 ## Deployment
