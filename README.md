@@ -106,16 +106,19 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the project page to ensure that there were no syntax errors in the project.
 
-W3C Markup Validator - Results are available here.
+W3C Markup Validator - Results are available [here](https://docs.google.com/document/d/12D5-xRJ7aznZ0yA9dGJkFYGP2j3VgLC9DlVKVzriH5o/edit?usp=sharing).
+
+![html-erorr-screenshot.png](./assets/images/html-error-screenshot.png)
 
 
-W3C CSS Validator - Results are available here.
+W3C CSS Validator - Results are available [here](https://docs.google.com/document/d/1sy53L79voZqkRTRMqF7R4Q9mz8OxifBSCjdpKFMWaEg/edit?usp=sharing).
 
+![css-erorr-screenshot.png](./assets/images/css-error-screenshot.png)
 
-![lighthouse-report.png](./assets/images/lighthouse-report.png)
 
 This Website was also tested by Lighthouse Chrome Extension and the full report is available [here](https://docs.google.com/document/d/1D0csh9chky472govAPuKJa73MZPxRlj16xuiBu79ltk/edit?usp=sharing).
 
+![lighthouse-report.png](./assets/images/lighthouse-report.png)
 
 
 
