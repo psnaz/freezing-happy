@@ -44,6 +44,18 @@ Freezing Happy is a one page website.
 
 ### Get Inspired or The Gallery Section
 
+- The gallery should showcase how the Wim Hof Method is practised regularly and the maind purpose is to inspire the reader so that she can start thinking outside the box about pushing her personal bounderies.
+
+![get-inspired.jpg](./assets/images/get-inspired.jpg)
+
+- Part of this section is also a friendly invitation to join the group, inclduding the day, time and location of the meet up and a list of practical items to be brought along.
+
+![wanna-come.png](./assets/images/wanna-come.png)
+
+
+### Sign Up
+
+### Contact
 
 
 ## User Experience (UX)
