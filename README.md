@@ -55,6 +55,11 @@ Freezing Happy is a one page website.
 
 ### Sign Up
 
+- The Sign Up section encourages the reader to stay in touch via newsletter and subscribscribe.
+- The reader is asked to submit their full name and email address.
+
+![signup.png](./assets/images/signup.png)
+
 ### Contact
 
 
