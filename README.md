@@ -39,7 +39,7 @@ Freezing Happy is a one page website.
 
 - The section is naturally devided by a motivational quote placed on a decorative red banner. 
 
-![quatation-banner.png](./assets/images/quatation-banner.png)
+![quote-banner.png](./assets/images/quote-banner.png)
 
 
 ### Get Inspired or The Gallery Section
