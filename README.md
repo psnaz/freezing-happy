@@ -30,6 +30,20 @@ Freezing Happy is a one page website.
 
 ### Our Story Section
 
+- This section tells an authentic personal story and creates connection with a reader that is being introduced to the Wim Hof Method. This is also facilitated by the featured YouTube video ‘The Ice Man’ and the image of the Wim Hof book itself.
+- These should spark interest of the reader and encourage her to consider ice-baths and cold therapy as a viable way to work on her self-care and immunity.
+
+![our-story.png](./assets/images/our-story.png)
+
+![featured-book.png](./assets/images/featured-book.png)
+
+- The section is naturally devided by a motivational quote placed on a decorative red banner. 
+
+![quatation-banner.png](./assets/images/quatation-banner.png)
+
+
+### Get Inspired or The Gallery Section
+
 
 
 ## User Experience (UX)
