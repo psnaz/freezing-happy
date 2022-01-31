@@ -24,13 +24,19 @@ Freezing Happy is a one page website.
 
 ### The Landing Page Image
 
+- The landing page includes an eye-catching photograph of a middle aged lady taking an ice-bath in a frozen lake and an attention grabbing tagline placed on the ‘red banner’.
+
+![landing-page.png](./assets/images/landing-page.png)
+
+### Our Story Section
+
 
 
 ## User Experience (UX)
 
 ### User Stories
 
-The target audience (end users) of this project are females (but also males) from the age of 30+ looking for information about practicing the so-called “Wim Hof Method”, ice baths, cold therapy and open water swimming. It is aimed at this type of audience as my personal story (“mum of two trying to survive lockdowns and maintain some sanity during the pandemic”) can resonate with them.
+The target audience (end users) of this project are predominantly females (but also males) from the age of 30+ looking for information about practicing the so-called 'Wim Hof Method', ice baths, cold therapy and open water swimming. It is aimed at this type of audience as my personal story ('mum of two trying to survive lockdowns and maintain some sanity during the pandemic') can resonate with them.
 
 The end user is looking for inspiration and credibility of the Wim Hof Method.
 
