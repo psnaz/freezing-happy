@@ -11,6 +11,20 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 A deployed link to the website can be found [here](https://psnaz.github.io/freezing-happy/).
 
+## Features
+
+Freezing Happy is a one page website.
+
+### Navigation Bar
+
+- The responsive navigation bar includes links to Home page, Our Story, Gallery, Sign Up and Contact.
+- This section is linked to other relevant sections of this one page website which allows the user to navigate through the page easily.
+
+![navigation-bar.png](./assets/images/navigation-bar.png)
+
+### The Landing Page Image
+
+
 
 ## User Experience (UX)
 
