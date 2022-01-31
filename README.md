@@ -112,7 +112,7 @@ W3C Markup Validator - Results are available here.
 W3C CSS Validator - Results are available here.
 
 
-![freezinghappy-mockup.png](./assets/images/freezinghappy-mockup.png)
+![lighthouse-report.png](./assets/images/lighthouse-report.png)
 
 This Website was also tested by Lighthouse Chrome Extension and the full report is available [here](https://docs.google.com/document/d/1D0csh9chky472govAPuKJa73MZPxRlj16xuiBu79ltk/edit?usp=sharing).
 
