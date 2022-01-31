@@ -57,14 +57,14 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 ### Frameworks, Libraries and Programs Used
 
-- Pixabay.com: Pixabay was used to find images but images found thanks to iStock ad placed on the site
-- Canva.com: Canva Color Palette Generator was used to create a color palette and Canva was used to create a mock-up design, and for resizing and editing images.
-- Google Fonts: Google fonts were used to import the ‘Lato’ and ‘Inspiration’ fonts into the style.css files. Font Lato was used throughout the project, font Inspiration used on banners for aesthetic and UX purposes.
+- [Pixabay.com](https://pixabay.com/): Pixabay was originally used to find images but images found thanks to iStock ad placed on the site
+- [Canva.com](https://www.canva.com/): [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/) was used to create [my color palette](https://docs.google.com/document/d/e/2PACX-1vQFfVufLElq5SqE56QDL7nFfoI3bhFWDxp9opZS1hYrAaxy3xVWU4ntsD4DvSYZcEZgi_9Ez7hbboe5/pub) and Canva was used to create [my wireframe design](https://drive.google.com/file/d/1eJwBfbEYS5F_1b5bzXBn2bcpLrGb8VKd/view?usp=sharing), and for resizing and editing images.
+- [Google Fonts](https://fonts.google.com/): Google fonts were used to import the ‘Lato’ and 'Licorice' fonts into the style.css files. My favourite font Lato was used throughout the project, Canva font 'Inspiration' was not available on GoogleFonts, therefore was replaced by the font 'Licorice' and used on banners for decorative purposes.
 - Git: Git was used for version control by utilizing the Gitpod terminal - to commit to Git and push to GitHub
 - GitHub: Github is used to store the project's code after being pushed from Git.
 - GoogleDev Tools used to see the element positioning and responsiveness
-- TinyPNG was used to compress the images
-- FontAwesome used for social media icons: FB, IG, YT
+- [TinyPNG](https://tinypng.com/) was used to compress the images
+- [FontAwesome](https://fontawesome.com/) used for social media icons: FB, IG, YT
 
 
 ## Credits
@@ -86,7 +86,7 @@ Other features that are not to be missed is that the user can, if they wish, get
 ### Media
 
 - 2 images (hero image “lady in the red hat” and “lady’s legs”) purchased on [iStockphotography.com](https://www.istockphoto.com/)
-- The rest of the images created by the developer
+- The rest of the images created by the developer.
 - Youtube video “HE IS THE ICE MAN (Wim Hof)” created by Drew Binsky.
 
 
@@ -95,7 +95,7 @@ Other features that are not to be missed is that the user can, if they wish, get
 - My ice-bath-crazy friends for inspiration and getting me hooked on ice baths, cold therapy and open water swimming.
 - My Mentor Celestine Okoro for his helpful feedback.
 - Tutor support at Code Institute for their support, in particular, I'd like to thank you Ed, Jo and Igor.
-- Stephen Seagrave, CI alumni, for his most valuable advice recorded as Milestone 1 Planning with Stephen Seagrave.
+- Stephen Seagrave, CI alumni, for his most valuable advice recorded as [Milestone 1 Planning with Stephen Seagrave](https://youtu.be/06tXTbm-DxI).
 - Code Institute Slack Community for all their advice and support.
 
 
