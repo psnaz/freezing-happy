@@ -103,7 +103,7 @@ Other features that are not to be missed is that the user can, if they wish, get
 - Hero image searched for on pixabay.com, but found on iStock
 - Content page outlined, researched and written in Google docs
 - Color palette created in canva.com
-- Mockup design created in canva.com
+- Wireframe design created in canva.com
 - Planning Session 1 with my mentor (Call 1)
 - GitHub repository created, link [here](https://github.com/psnaz/freezing-happy).
 - Project broke down into smaller tasks and To-Do List created in Google docs
@@ -146,6 +146,8 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 - Code Institute [template for Readme file](https://github.com/Code-Institute-Solutions/readme-template) followed.
 
+- Flexbox resources studied and followed: [How to Create a Responsive Gallery with Flexbox](https://www.developerdrive.com/responsive-image-gallery-flexbox/) and A [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).  
+
 
 ### Content
 
@@ -187,39 +189,32 @@ This Website was also tested by Lighthouse Chrome Extension and the full report 
 ![lighthouse-report.png](./assets/images/lighthouse-report.png)
 
 
+## Unfixed Bugs
+
+Please see the test reports attached. The mentioned bugs have not been fixed due to time constraints - the timely submission of my project would be seriously geopardised.
 
 
 ## Deployment
 
 ### GitHub Pages
 
-To be continued…
-
 The project was deployed to GitHub Pages using the following steps:
 1.
 2.
 ….
 
-### Forking the GitHub Repository
+### Forking the GitHub Repository OR Making a Local Clone
 
-To be continued…
+If you are interested how to fork this repository or how to make a local clone, this information can be found in Github documentation [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
-1.
-2.
-…..
-
-### Making a Local Clone
-
-To be continued…
 
 ## Notes
 
-I have also taken inspiration from the following sales pages I created for my client Healing Spot PT in their Kartra acc: 
-*Clear Your Root Online Program: https://healingspot.kartra.com/page/Clear-Your-Root
-*Release Your Root Online Program: https://healingspot.kartra.com/page/Release-Your-Root
-*Low Pressure Fitness Online Program: https://healingspot.kartra.com/page/Low-Pressure-Fitness-Level1
-*Rise-N-Shine Self-care Program: https://healingspot.kartra.com/page/Rise-n-Shine
-*How Smart Moms Return To Exercise Class: https://healingspot.kartra.com/page/how-smart-moms-return-to-exercise
+I have also taken inspiration from the following sales pages I previously created for my client Healing Spot PT in their Kartra acc. Please note that I have not inspect the pages with GoogleDev Tools nor tried to find out what the code for these pages is. 
+- [Clear Your Root Online Program](https://healingspot.kartra.com/page/Clear-Your-Root)
+- [Release Your Root Online Program](https://healingspot.kartra.com/page/Release-Your-Root)
+- [Low Pressure Fitness Online Program](https://healingspot.kartra.com/page/Low-Pressure-Fitness-Level1)
+- [Rise-N-Shine Self-care Program](https://healingspot.kartra.com/page/Rise-n-Shine)
+- [How Smart Moms Return To Exercise Class](https://healingspot.kartra.com/page/how-smart-moms-return-to-exercise)
 
 Unfortunately, due to time restraints and the deadline I was not able to…
