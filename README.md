@@ -78,7 +78,9 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): Used extensively to deepen my knowledge and understanding of HTML and CSS, and chek for ideas and solutions, specifically:  
 
-- Mentor’s advice: As per my mentor's advice I used flexbox as the main element to create the gallery that looks a little bit like Instagram feed. 
+- Mentor’s advice: As per my mentor's advice I used flexbox as the main element to create the gallery that looks a little bit like Instagram feed.
+
+- Code Institute [template for Readme file](https://github.com/Code-Institute-Solutions/readme-template) followed.
 
 
 ### Content
@@ -119,6 +121,7 @@ W3C CSS Validator - Results are available [here](https://docs.google.com/documen
 This Website was also tested by Lighthouse Chrome Extension and the full report is available [here](https://docs.google.com/document/d/1D0csh9chky472govAPuKJa73MZPxRlj16xuiBu79ltk/edit?usp=sharing).
 
 ![lighthouse-report.png](./assets/images/lighthouse-report.png)
+
 
 
 
