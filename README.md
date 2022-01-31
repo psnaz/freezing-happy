@@ -67,6 +67,14 @@ Freezing Happy is a one page website.
 
 ![contact-details.png](./assets/images/contact-details.png)
 
+### The Footer
+
+- The footer section includes a friendly phraze encouraging follow on social media.
+- It includes social media icons with links to Facebook, Instagram and YouTube.
+- It also includes copyright statement at the very bottom.
+
+![footer.png](./assets/images/footer.png)
+
 
 ## User Experience (UX)
 
