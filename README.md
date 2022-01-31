@@ -62,6 +62,11 @@ Freezing Happy is a one page website.
 
 ### Contact
 
+- This section gives the reader opportunity to get in touch if they have questions.
+- Contact details: email and telephone numbers are provided.
+
+![contact-details.png](./assets/images/contact-details.png)
+
 
 ## User Experience (UX)
 
