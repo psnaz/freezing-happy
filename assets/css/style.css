@@ -63,6 +63,16 @@ p {
     margin-bottom: 0.85em;
 }
 
+.logo {
+    font-family: var(--ff-logo);
+    text-align: center;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #8b0f18;
+}
+
 
 
 /*
