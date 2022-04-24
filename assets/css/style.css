@@ -50,8 +50,9 @@ h1 {
 
 h2 {
     font-family: var(--ff-banner);
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 0.8;
+    letter-spacing: 1px;
 }
 
 h3 {
@@ -77,6 +78,7 @@ p {
 
 header {
     padding: 1em 0 2em;
+    position: sticky;
 }
 
 /* navigation */
@@ -102,6 +104,12 @@ nav a:focus {
     text-decoration: underline;
 }
 
+.red-banner {
+    background-color: #8b0f18;
+    text-align: center;
+    color: var(--clr-acent);
+    padding: 5vh 1em;
+}
 
 /*
 * {
