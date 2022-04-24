@@ -22,7 +22,7 @@ html {
     box-sizing: border-box;
     font-family: Lato, sans-serif;
     color: var(--clr-text);
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
 
 body {
@@ -65,6 +65,7 @@ p {
 
 .logo {
     font-family: var(--ff-logo);
+    font-weight: bolder;
     text-align: center;
 }
 
@@ -73,6 +74,33 @@ p {
     color: #8b0f18;
 }
 
+
+header {
+    padding: 1em 0 2em;
+}
+
+/* navigation */
+
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+}
+
+nav a {
+    display: inline-block;
+    padding: .5em;
+    text-decoration: none;
+    color: var(--clr-primary);
+}
+
+nav a:hover,
+nav a:focus {
+    color: var(--clr-text);
+    text-decoration: underline;
+}
 
 
 /*
