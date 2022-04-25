@@ -43,8 +43,7 @@ section {
 
 h1,
 h2,
-h3,
-p {
+h3 {
     margin: 0;
 }
 
@@ -62,10 +61,12 @@ h2 {
 
 h3 {
     font-family: var(--ff-title);
+    color: var(--clr-primary);
     line-height: 0.8;
 }
 
 p {
+    margin-top: 0.85em;
     margin-bottom: 0.85em;
 }
 
@@ -77,7 +78,7 @@ p {
 
 .logo a {
     text-decoration: none;
-    color: #8b0f18;
+    color: var(--clr-primary);
 }
 
 
@@ -110,7 +111,7 @@ nav a:focus {
 }
 
 .red-banner {
-    background-color: #8b0f18;
+    background-color: var(--clr-primary);
     text-align: center;
     color: var(--clr-acent);
     padding: 5vh 1em;
@@ -121,6 +122,25 @@ nav a:focus {
     padding: 0.75em 1.5em;
     line-height: 1em;
 }
+
+/* form */
+
+form {
+    color: var(--clr-acent);
+    padding: 0.5em;
+    margin: 0.75em auto;
+    background-color: var(--clr-primary);
+}
+
+/* subscribe button */
+#s-button {
+    background-color: var(--clr-acent);
+    text-align: center;
+    color: var(--clr-primary);
+    border-radius: 0.25em;
+    padding: 2%;
+}
+
 
 /* my original code
 * {
