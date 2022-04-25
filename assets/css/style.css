@@ -141,6 +141,48 @@ form {
     padding: 2%;
 }
 
+/* footer */
+
+footer {
+    background-color: var(--clr-primary);
+    color: var(--clr-acent);
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+}
+
+.social-media {
+    text-align: center;
+    list-style-type: none;
+}
+
+.social-media > li {
+    display: inline;
+
+}
+
+.social-media i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 1%;
+    color: var(--clr-acent);
+}
+
+footer > p {
+    color: var(--clr-acent);
+    text-align: center;
+}
+
+footer h2 {
+    padding: 0;
+}
+
+.copyright {
+    color: var(--clr-acent);
+}
+
+/*Media queries for bigger screens */
+
 
 /* my original code
 * {
