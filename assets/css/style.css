@@ -51,6 +51,7 @@ h3 {
 h1 {
     font-family: var(--ff-logo);
     letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 h2 {
