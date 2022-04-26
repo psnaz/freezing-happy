@@ -152,42 +152,24 @@
         </div>
         <div id="signup">
             <h3 class="title">Let us help you fall in love with the ice one newsletter at the time!</h3>
-            <h3>Sing up here:</h3>
-            <div class="signup-form">
-                <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank">
-                    <div>
-                        <div class="signup-field">
-                            <label for="fname">First Name:</label>
-                            <input id="fname" type="text" name="fname" required/><br><br>
-                        </div>
-                        <div class="signup-field">
-                            <label for="lname">Last Name:</label>
-                            <input id="lname" type="text" name="lname" required/><br><br>
-                        </div>
-                        <div class="signup-field">
-                            <label for="email">Email:</label>
-                        <input id="email" type="email" name="email" required/><br><br>
-                        </div>
-                        <div id="s-button">
-                            <input type="submit" value="SUBSCRIBE!"/>
-                        </div>
-                    </div>
-    
-                </form>
-
-            </div>
-
+        
             <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank">
                 <fieldset>
-                    <legend>Sign up here:</legend>
-                    <label for="fname">First Name:</label>
-                    <input id="fname" type="text" name="fname" required/><br><br>
-                    <label for="lname">Last Name:</label>
-                    <input id="lname" type="text" name="lname" required/><br><br>
-                    <label for="email">Email:</label>
-                    <input id="email" type="email" name="email" required/><br><br>
-                    <div id="s-button">
-                        <input type="submit" value="SUBSCRIBE!"/>
+                    <legend class="upper-case">Sign up here:</legend>
+                    <div class="form__group">
+                        <label for="first_name"></label>
+                        <input type="text" id="first_name" placeholder="First Name" class="form__input" name="first_name" required="">
+                    </div>
+                    <div class="form__group">
+                        <label for="last_name"></label>
+                        <input type="text" id="last_name" placeholder="Last Name" class="form__input" name="last_name" required="">
+                    </div>
+                    <div class="form__group">
+                        <label for="email"></label>
+                        <input type="email" id="email" placeholder="Email" class="form__input" name="email" required="">
+                    </div>
+                    <div class="s-btn">
+                        <input class="s-btn" type="submit" value="SUBSCRIBE!"/>
                     </div>
 
                 </fieldset>
