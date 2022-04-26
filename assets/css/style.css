@@ -158,6 +158,10 @@ form {
     background-color: var(--clr-primary);
 }
 
+.signup-field {
+    text-align: left;
+}
+
 /* subscribe button */
 #s-button {
     background-color: var(--clr-acent);
