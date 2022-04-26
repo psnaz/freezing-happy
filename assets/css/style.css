@@ -52,6 +52,7 @@ h1 {
     font-family: var(--ff-logo);
     letter-spacing: 2px;
     text-transform: uppercase;
+    font-weight: bolder;
 }
 
 h2 {
@@ -126,7 +127,8 @@ nav a:focus {
     padding: 0.75em 1.5em;
     line-height: 1em;
 }
-/* video - this code copies from 
+
+/* video - this code copied from 
 Embed a YouTube Video in HTML 
 and Make it Responsive (CSS included) 
 - video tutorial by Tipswithpunch, 
@@ -171,13 +173,14 @@ footer {
     background-color: var(--clr-primary);
     color: var(--clr-acent);
     width: 100%;
-    padding: 1em;
+    padding: 5vh 1em;
     text-align: center;
 }
 
 .social-media {
     text-align: center;
     list-style-type: none;
+    padding: 0px;
 }
 
 .social-media > li {
@@ -205,7 +208,77 @@ footer h2 {
     color: var(--clr-acent);
 }
 
+
 /*Media queries for bigger screens */
+@media only screen and (min-width: 750px) {
+    /* hero image */
+    .hero-image {
+        height: 100vh;
+        background-image: url('../images/hero-image.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .hero-image img {
+        display: none;
+    }
+
+     /* book image */
+     .book-image {
+        height: 100vh;
+        background-image: url('../images/book-image.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .book-image img {
+        display: none;
+    }
+
+    /* gallery */
+    .gallery {
+        background-color: var(--clr-acent);
+    }
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        background-color: var(--clr-acent);
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 1em;
+    }
+      
+    .flex-container > div {
+        background-color: var(--clr-acent);
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+        
+    }
+    
+    .square-pic {
+        width: 100%;
+        height: auto;
+        
+    }
+
+    .legs-image {
+        height: 100vh;
+        background-image: url('../images/legs-image.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .legs-image img {
+        display: none;
+    }
+
+
+}
 
 
 /* my original code
