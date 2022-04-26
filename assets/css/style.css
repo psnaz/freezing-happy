@@ -39,6 +39,7 @@ section {
     padding: 0.5em 0.75em;
 }
 
+
 /* Typography */
 
 h1,
@@ -81,10 +82,12 @@ p {
     color: var(--clr-primary);
 }
 
-
 header {
-    padding: 1em 0 2em;
-    position: sticky;
+    padding: 0.5em 0;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    text-align: center;
 }
 
 /* navigation */
