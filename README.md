@@ -4,7 +4,7 @@ The purpose of Freezing Happy is to inspire people to invest time in their healt
 
 This website is designed to be responsive and accessible on a range of devices, making it easy to navigate for the audience.
 
-![freezinghappy-mockup.png](./assets/images/freezinghappy-mockup.png)
+![freezinghappy-mockup.png](./docs/images/freezinghappy-mockup.png)
 
 
 ## Showcase
@@ -20,37 +20,37 @@ Freezing Happy is a one page website.
 - The responsive navigation bar includes links to Home page, Our Story, Gallery, Sign Up and Contact.
 - This section is linked to other relevant sections of this one page website which allows the user to navigate through the page easily.
 
-![navigation-bar.png](./assets/images/navigation-bar.png)
+![navigation-bar.png](./docs/images/navigation-bar.png)
 
 ### The Landing Page Image
 
 - The landing page includes an eye-catching photograph of a middle aged lady taking an ice-bath in a frozen lake and an attention grabbing tagline placed on the ‘red banner’.
 
-![landing-page.png](./assets/images/landing-page.png)
+![landing-page.png](./docs/images/landing-page.png)
 
 ### Our Story Section
 
 - This section tells an authentic personal story and creates connection with a reader that is being introduced to the Wim Hof Method. This is also facilitated by the featured YouTube video ‘The Ice Man’ and the image of the Wim Hof book itself.
 - These should spark interest of the reader and encourage her to consider ice-baths and cold therapy as a viable way to work on her self-care and immunity.
 
-![our-story.png](./assets/images/our-story.png)
+![our-story.png](./docs/images/our-story.png)
 
-![featured-book.png](./assets/images/featured-book.png)
+![featured-book.png](./docs/images/featured-book.png)
 
 - The section is naturally devided by a motivational quote placed on a decorative red banner. 
 
-![quote-banner.png](./assets/images/quote-banner.png)
+![quote-banner.png](./docs/images/quote-banner.png)
 
 
 ### Get Inspired or The Gallery Section
 
 - The gallery should showcase how the Wim Hof Method is practised regularly and the maind purpose is to inspire the reader so that she can start thinking outside the box about pushing her personal bounderies.
 
-![get-inspired.jpg](./assets/images/get-inspired.jpg)
+![get-inspired.jpg](./docs/images/get-inspired.png)
 
 - Part of this section is also a friendly invitation to join the group, inclduding the day, time and location of the meet up and a list of practical items to be brought along.
 
-![wanna-come.png](./assets/images/wanna-come.png)
+![wanna-come.png](./docs/images/wanna-come.png)
 
 
 ### Sign Up
@@ -58,14 +58,14 @@ Freezing Happy is a one page website.
 - The Sign Up section encourages the reader to stay in touch via newsletter and subscribscribe.
 - The reader is asked to submit their full name and email address.
 
-![signup.png](./assets/images/signup.png)
+![signup.png](./docs/images/signup.png)
 
 ### Contact
 
 - This section gives the reader opportunity to get in touch if they have questions.
 - Contact details: email and telephone numbers are provided.
 
-![contact-details.png](./assets/images/contact-details.png)
+![contact-details.png](./docs/images/contact-details.png)
 
 ### The Footer
 
@@ -73,7 +73,7 @@ Freezing Happy is a one page website.
 - It includes social media icons with links to Facebook, Instagram and YouTube.
 - It also includes copyright statement at the very bottom.
 
-![footer.png](./assets/images/footer.png)
+![footer.png](./docs/images/footer.png)
 
 
 ## User Experience (UX)
@@ -146,7 +146,14 @@ Other features that are not to be missed is that the user can, if they wish, get
 
 - Code Institute [template for Readme file](https://github.com/Code-Institute-Solutions/readme-template) followed.
 
-- Flexbox resources studied and followed: [How to Create a Responsive Gallery with Flexbox](https://www.developerdrive.com/responsive-image-gallery-flexbox/) and A [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).  
+- Flexbox resources studied and followed: [How to Create a Responsive Gallery with Flexbox](https://www.developerdrive.com/responsive-image-gallery-flexbox/) and A [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+
+- CSS video tutorials by Kevin Powell, in particular his Coding a responsive page from start to finish [video tutorial](https://www.youtube.com/watch?v=zyNhxN6sToM)  that I practised creating a responsive website by coding along when creating another project and then applying my knowledge and notes taken in this project
+
+- W3Schols - [How to change placeholder color](https://www.w3schools.com/howto/howto_css_placeholder.asp)
+
+- [Embed a YouTube Video in HTML and Make it Responsive (CSS included) ](https://www.youtube.com/watch?v=9YffrCViTVk) - video tutorial by Tipswithpunch
+
 
 
 ### Content
@@ -164,34 +171,37 @@ Other features that are not to be missed is that the user can, if they wish, get
 ### Acknowledgements
 
 - My ice-bath-crazy friends for inspiration and getting me hooked on ice baths, cold therapy and open water swimming.
-- My Mentor Celestine Okoro for his helpful feedback.
+- My 1st Mentor Celestine Okoro for his helpful feedback.
 - Tutor support at Code Institute for their support, in particular, I'd like to thank you Ed, Jo and Igor.
 - Stephen Seagrave, CI alumni, for his most valuable advice recorded as [Milestone 1 Planning with Stephen Seagrave](https://youtu.be/06tXTbm-DxI).
 - Code Institute Slack Community for all their advice and support.
+
+- I would like to THANK YOU my 2nd mentor Guido Cecilio for all his patience, helpful feedback and amazing support during my work on resubmission.  
 
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the project page to ensure that there were no syntax errors in the project.
 
-W3C Markup Validator - Results are available [here](https://docs.google.com/document/d/12D5-xRJ7aznZ0yA9dGJkFYGP2j3VgLC9DlVKVzriH5o/edit?usp=sharing).
+W3C Markup Validator - Results available via screenshot below:
 
-![html-erorr-screenshot.png](./assets/images/html-error-screenshot.png)
-
-
-W3C CSS Validator - Results are available [here](https://docs.google.com/document/d/1sy53L79voZqkRTRMqF7R4Q9mz8OxifBSCjdpKFMWaEg/edit?usp=sharing).
-
-![css-erorr-screenshot.png](./assets/images/css-error-screenshot.png)
+![html-validator.png](./docs/images/html-validator.png)
 
 
-This Website was also tested by Lighthouse Chrome Extension and the full report is available [here](https://docs.google.com/document/d/1D0csh9chky472govAPuKJa73MZPxRlj16xuiBu79ltk/edit?usp=sharing).
+W3C CSS Validator - Results are available via screenshots below:
 
-![lighthouse-report.png](./assets/images/lighthouse-report.png)
+![css-validator1.png](./docs/images/css-validator1.png)
+
+![css-validator-warnings.png](./docs/images/css-validator-warnings.png)
+
+This Website was also tested by Lighthouse Chrome Extension - see the screnshot below:
+
+![lighthouse.png](./docs/images/lighthouse.png)
 
 
 ## Unfixed Bugs
 
-Please see the test reports attached. The mentioned bugs have not been fixed due to time constraints - the timely submission of my project would be seriously geopardised.
+Please see the screenshot test reports attached. The majority of the bugs have been fixed. I am fully aware that due to the size of Gallery images the performance of the website is lower. This can be further improved by compressing the images, however, the images have already been compressed and the online compressing tool tinypng.com is unable to compress any further.
 
 
 ## Deployment
@@ -220,4 +230,8 @@ I have also taken inspiration from the following sales pages I previously create
 - [Rise-N-Shine Self-care Program](https://healingspot.kartra.com/page/Rise-n-Shine)
 - [How Smart Moms Return To Exercise Class](https://healingspot.kartra.com/page/how-smart-moms-return-to-exercise)
 
+-----
 
+## Notes for Resubmission
+
+To make this site fully responsive I have taken Tutoring advice to start designing for mobile first and moved to larger screens later. I have also revisited all units on Responsiveness and consumed large amounts of CSS Youtube tutorials by Kevin Powell as advised by the Tutoring.  
