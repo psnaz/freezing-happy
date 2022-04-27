@@ -73,21 +73,6 @@ p {
     margin-bottom: 0.85em;
 }
 
-/* placeholder - code copied from W3Schools and amended, 
-see link in readme */
-
-::placeholder {
-    color: var(--clr-acent);
-    opacity: 1; /* Chrome, Firefox, Opera, Safari 10.1+ */
-  }
-  
-  :-ms-input-placeholder { /* Internet Explorer 10-11 */
-   color: var(--clr-acent);
-  }
-  
-  ::-ms-input-placeholder { /* Microsoft Edge */
-   color: var(--clr-acent);
-  }
 
 /* logo */
 
@@ -185,6 +170,7 @@ form {
     border: solid 1px var(--clr-acent);
     border-radius: 0.25em;
     margin-bottom: 10px;
+    background-color: white;
 }
 
 /* my mentor inspired me with the styling of form input */
@@ -196,11 +182,27 @@ form {
     -webkit-appearance: none;
     border: 0;
     outline: 0;
-    -webkit-transition: 0.3s;
-    -o-transition: 0.3s;
-    transition: 0.3s;
-    background-color: var(--clr-primary);
+    background-color: white;
+    font-family: Lato, sans-serif;;
+    letter-spacing: 1px;
 }
+
+
+/* placeholder - code copied from W3Schools and amended, 
+see link in readme */
+
+::placeholder {
+    color: var(--clr-primary);
+    opacity: 1; /* Chrome, Firefox, Opera, Safari 10.1+ */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: var(--clr-primary);
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: var(--clr-primary);
+  }
 
 
 .form__input:last-of-type {
@@ -213,6 +215,26 @@ form {
     background-color: var(--clr-acent);
     text-align: center;
     color: var(--clr-primary);
+    border: none;
+    border-radius: 0.25em;
+    padding: 2%;
+}
+
+.sbtn-btn {
+    background-color: var(--clr-acent);
+    border: none;
+    color: var(--clr-primary);
+    font-family: Lato, sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+    border-radius: 0.25em;
+    padding: 2%;
+}
+
+.s-btn:hover {
+    background-color: var(--clr-primary);
+    text-align: center;
+    color: var(--clr-acent);
     border: none;
     border-radius: 0.25em;
     padding: 2%;
