@@ -73,6 +73,22 @@ p {
     margin-bottom: 0.85em;
 }
 
+/* placeholder - code copied from W3Schools and amended, 
+see link in readme */
+
+::placeholder {
+    color: var(--clr-acent);
+    opacity: 1; /* Chrome, Firefox, Opera, Safari 10.1+ */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: var(--clr-acent);
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: var(--clr-acent);
+  }
+
 /* logo */
 
 .logo {
